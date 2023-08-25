@@ -1,7 +1,7 @@
 # Infraestrutura como Código em Linux - DevOps
 Projeto prático de infraestrutura como código (IAC), usando máquina virtual linux. Projeto criado no bootcamp em DevOps do Instituo Atlântico. Ago/23
 
-Dados do Projeto: Script de criação de estrutura de usuários, diretórios e permissões.
+Dados do Projeto: Script de criação de estrutura de usuários, diretórios e permissões, para instalação da máquina virtual com a estrutura já automatizada.
 
 **Estrutura básica do projeto**
 
